@@ -1,0 +1,19 @@
+D:\visual studio projetos\Lida Data Acquisition\bin\Release\netcoreapp3.1\WinSCP.exe
+D:\visual studio projetos\Lida Data Acquisition\bin\Release\netcoreapp3.1\Lida Data Acquisition.exe
+D:\visual studio projetos\Lida Data Acquisition\bin\Release\netcoreapp3.1\Lida Data Acquisition.deps.json
+D:\visual studio projetos\Lida Data Acquisition\bin\Release\netcoreapp3.1\Lida Data Acquisition.runtimeconfig.json
+D:\visual studio projetos\Lida Data Acquisition\bin\Release\netcoreapp3.1\Lida Data Acquisition.runtimeconfig.dev.json
+D:\visual studio projetos\Lida Data Acquisition\bin\Release\netcoreapp3.1\Lida Data Acquisition.dll
+D:\visual studio projetos\Lida Data Acquisition\bin\Release\netcoreapp3.1\Lida Data Acquisition.pdb
+D:\visual studio projetos\Lida Data Acquisition\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+D:\visual studio projetos\Lida Data Acquisition\bin\Release\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\visual studio projetos\Lida Data Acquisition\bin\Release\netcoreapp3.1\WinSCPnet.dll
+D:\visual studio projetos\Lida Data Acquisition\bin\Release\netcoreapp3.1\YamlDotNet.NetCore.dll
+D:\visual studio projetos\Lida Data Acquisition\obj\Release\netcoreapp3.1\Lida Data Acquisition.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio projetos\Lida Data Acquisition\obj\Release\netcoreapp3.1\Lida Data Acquisition.AssemblyInfoInputs.cache
+D:\visual studio projetos\Lida Data Acquisition\obj\Release\netcoreapp3.1\Lida Data Acquisition.AssemblyInfo.cs
+D:\visual studio projetos\Lida Data Acquisition\obj\Release\netcoreapp3.1\Lida Data Acquisition.csproj.CoreCompileInputs.cache
+D:\visual studio projetos\Lida Data Acquisition\obj\Release\netcoreapp3.1\Lida Data Acquisition.csproj.CopyComplete
+D:\visual studio projetos\Lida Data Acquisition\obj\Release\netcoreapp3.1\Lida Data Acquisition.dll
+D:\visual studio projetos\Lida Data Acquisition\obj\Release\netcoreapp3.1\Lida Data Acquisition.pdb
+D:\visual studio projetos\Lida Data Acquisition\obj\Release\netcoreapp3.1\Lida Data Acquisition.genruntimeconfig.cache
