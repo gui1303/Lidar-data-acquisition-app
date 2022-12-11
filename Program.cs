@@ -11,18 +11,6 @@ public class Program
     {
         try
         {
-            // Connect OpenVPN
-            //Process openVpnProcess = new Process();
-            //openVpnProcess.StartInfo.CreateNoWindow = true;
-            //openVpnProcess.EnableRaisingEvents = true;
-            //openVpnProcess.StartInfo.Arguments = @"--config C:\Program Files\OpenVPN\config\FH_Flensburg.ovpn";
-            //openVpnProcess.StartInfo.FileName = @"C:\Program Files\OpenVPN\bin\openvpn-gui.exe";
-            //openVpnProcess.StartInfo.WorkingDirectory = @"C:\Program Files\OpenVPN\config";
-            //openVpnProcess.Start();
-
-            // FOR SOME REASON IT STARTS THE OPENVPN CONNECT APP BUT DOES NOT CONNECT. 
-
-
             // Setup session options
             SessionOptions sessionOptions = new SessionOptions
             {
@@ -105,22 +93,6 @@ public class Program
                 }
                 // Delete file from temp file after copying it, or if it already exists in the backup folder
                 File.Delete(FilePathTemp[0]);
-
-                // Verify if there is any file that is not in the backup folder
-                foreach (RemoteFileInfo fileInfo in directoryInfo.Files)
-                {
-                    for (int iBackup = 0; iBackup < NumFilesBackup; iBackup++)
-                    {
-                        string FileNameBackup = Path.GetFileName(FilePathBackup[iBackup]);
-                        if (fileInfo.Name.Equals(FileNameBackup))
-                        { 
-                            var sourcePath =
-                            RemotePath.EscapeFileMask(remotePath + "/" + fileInfo.Name);
-                            session.GetFiles(sourcePath, Config[1]).Check();
-                        }
-                    }
-                }
-
             }
 
             return 0;

@@ -2111,11 +2111,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\visual studio projetos\\Lida Data Acquisition\\Lida Data Acquisition.csproj",
+      "projectUniqueName": "D:\\GitHub\\Lidar-data-acquisition-app\\Lida Data Acquisition.csproj",
       "projectName": "Lida Data Acquisition",
-      "projectPath": "D:\\visual studio projetos\\Lida Data Acquisition\\Lida Data Acquisition.csproj",
+      "projectPath": "D:\\GitHub\\Lidar-data-acquisition-app\\Lida Data Acquisition.csproj",
       "packagesPath": "C:\\Users\\guili\\.nuget\\packages\\",
-      "outputPath": "D:\\visual studio projetos\\Lida Data Acquisition\\obj\\",
+      "outputPath": "D:\\GitHub\\Lidar-data-acquisition-app\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\guili\\AppData\\Roaming\\NuGet\\NuGet.Config",

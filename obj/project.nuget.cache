@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pN74KeEn4Rqe+ugdPfJfjrHJxL0eP7PJHp7kKEDxZ2rYZkKtLiooT22LSAfao+1sCcxK3CDEYSUDriVD8JN86w==",
+  "dgSpecHash": "zLpwVknDNk++4TI1w2++JlwYmpNd9eNusgxRjUs8XbnnFnjwo1LCQTyz1xGHLi7mwXChjFNagQWpB5/ajBEWOA==",
   "success": true,
-  "projectFilePath": "D:\\visual studio projetos\\Lida Data Acquisition\\Lida Data Acquisition.csproj",
+  "projectFilePath": "D:\\GitHub\\Lidar-data-acquisition-app\\Lida Data Acquisition.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\guili\\.nuget\\packages\\microsoft.netcore.platforms\\1.0.1\\microsoft.netcore.platforms.1.0.1.nupkg.sha512",
     "C:\\Users\\guili\\.nuget\\packages\\microsoft.netcore.targets\\1.0.1\\microsoft.netcore.targets.1.0.1.nupkg.sha512",

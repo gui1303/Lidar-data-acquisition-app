@@ -18,3 +18,22 @@ D:\visual studio projetos\Lida Data Acquisition\obj\Debug\netcoreapp3.1\Lida Dat
 D:\visual studio projetos\Lida Data Acquisition\obj\Debug\netcoreapp3.1\Lida Data Acquisition.pdb
 D:\visual studio projetos\Lida Data Acquisition\obj\Debug\netcoreapp3.1\Lida Data Acquisition.genruntimeconfig.cache
 D:\visual studio projetos\Lida Data Acquisition\obj\Debug\netcoreapp3.1\Lida Data Acquisition.csproj.AssemblyReference.cache
+D:\GitHub\Lidar-data-acquisition-app\bin\Debug\netcoreapp3.1\WinSCP.exe
+D:\GitHub\Lidar-data-acquisition-app\bin\Debug\netcoreapp3.1\Lida Data Acquisition.exe
+D:\GitHub\Lidar-data-acquisition-app\bin\Debug\netcoreapp3.1\Lida Data Acquisition.deps.json
+D:\GitHub\Lidar-data-acquisition-app\bin\Debug\netcoreapp3.1\Lida Data Acquisition.runtimeconfig.json
+D:\GitHub\Lidar-data-acquisition-app\bin\Debug\netcoreapp3.1\Lida Data Acquisition.runtimeconfig.dev.json
+D:\GitHub\Lidar-data-acquisition-app\bin\Debug\netcoreapp3.1\Lida Data Acquisition.dll
+D:\GitHub\Lidar-data-acquisition-app\bin\Debug\netcoreapp3.1\Lida Data Acquisition.pdb
+D:\GitHub\Lidar-data-acquisition-app\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\GitHub\Lidar-data-acquisition-app\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\GitHub\Lidar-data-acquisition-app\bin\Debug\netcoreapp3.1\WinSCPnet.dll
+D:\GitHub\Lidar-data-acquisition-app\bin\Debug\netcoreapp3.1\YamlDotNet.NetCore.dll
+D:\GitHub\Lidar-data-acquisition-app\obj\Debug\netcoreapp3.1\Lida Data Acquisition.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Lidar-data-acquisition-app\obj\Debug\netcoreapp3.1\Lida Data Acquisition.AssemblyInfoInputs.cache
+D:\GitHub\Lidar-data-acquisition-app\obj\Debug\netcoreapp3.1\Lida Data Acquisition.AssemblyInfo.cs
+D:\GitHub\Lidar-data-acquisition-app\obj\Debug\netcoreapp3.1\Lida Data Acquisition.csproj.CoreCompileInputs.cache
+D:\GitHub\Lidar-data-acquisition-app\obj\Debug\netcoreapp3.1\Lida Data Acquisition.csproj.CopyComplete
+D:\GitHub\Lidar-data-acquisition-app\obj\Debug\netcoreapp3.1\Lida Data Acquisition.dll
+D:\GitHub\Lidar-data-acquisition-app\obj\Debug\netcoreapp3.1\Lida Data Acquisition.pdb
+D:\GitHub\Lidar-data-acquisition-app\obj\Debug\netcoreapp3.1\Lida Data Acquisition.genruntimeconfig.cache
